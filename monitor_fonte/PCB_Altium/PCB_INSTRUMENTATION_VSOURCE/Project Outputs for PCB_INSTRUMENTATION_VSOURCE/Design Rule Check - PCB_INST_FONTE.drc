@@ -1,0 +1,53 @@
+Protel Design System Design Rule Check
+PCB File : E:\FONTE_DE_BANCADA\Instrumentacao_fonte\PCB_Altium\PCB_INSTRUMENTATION_VSOURCE\PCB_INST_FONTE.PcbDoc
+Date     : 27/01/2023
+Time     : 19:05:46
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C10-1(281.338mil,1666.064mil) on Multi-Layer And Pad U1-3(1160mil,1620mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C16-2(2290mil,1100mil) on Multi-Layer And Pad C11-2(2500mil,1100mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R4-1(2470mil,890mil) on Multi-Layer And Pad C11-2(2500mil,1100mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U6-4(2030mil,2240mil) on Multi-Layer And Pad C14-2(2180mil,1930mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (2500mil,1100mil)(2504.256mil,1104.256mil) on Bottom Layer And Pad P6-3(2660mil,1480mil) on Multi-Layer 
+Rule Violations :5
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=25mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:02

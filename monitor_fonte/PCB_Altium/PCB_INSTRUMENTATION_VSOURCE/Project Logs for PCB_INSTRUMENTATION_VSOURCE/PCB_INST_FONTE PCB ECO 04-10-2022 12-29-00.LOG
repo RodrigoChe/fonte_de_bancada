@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=+12 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C17 NewDesignator=C15
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D7
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Added Component: Designator=C12(RAD-0.2)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC15_1
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR10_1
+Added Room: Name=U_Sheet1
+Added Room: Name=U_Sheet2

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\FONTE_DE_BANCADA\Instrumentacao_fonte\PCB_Altium\PCB_INSTRUMENTATION_VSOURCE\PCB_INST_FONTE.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

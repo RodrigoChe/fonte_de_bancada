@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_INSTRUMENTATION_VSOURCE.PrjPcb]
+   Generated File[PCB_INST_FONTE.TXT]
+   Generated File[PCB_INST_FONTE.LDP]
+   Generated File[PCB_INST_FONTE.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:31:25 On 29/12/2022
