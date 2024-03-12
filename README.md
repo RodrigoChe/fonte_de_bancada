@@ -26,8 +26,8 @@ E assim foi, montagem, testes, mais uns ajutes ténicos não planejados rs e voa
 
 ## Conteúdo do repositório
 
-- Cad_mecanico: nesta pasta encontram-se arquivos CAD de partes, montagem e pdf's com as medidas.
-- prints_fotos_videos: esta pasta contém material gráfico do processo de confecção montagem e etc.
+- Cad_mecanico: neste diretório encontram-se arquivos CAD de partes, montagem e pdf's com as medidas.
+- prints_fotos_videos: este diretório contém material gráfico do processo de confecção montagem e etc.
 - monitor_fonte: arquivos Altium do circuito monitor de corrente, tensão, temperatura e potência, arquivos Proteus de simulação desse circuito, arquivo MikroC de firmware.
 - fontes: pdf's dos circuitos esquemáticos das fontes variável e fixa, o arquivo fonte do projeto em Proteus sumiu entre backup's e mudanças. Quando for localizado subo no repositório.
 
