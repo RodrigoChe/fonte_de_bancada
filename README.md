@@ -31,6 +31,7 @@ E assim foi, montagem, testes, mais uns ajutes ténicos não planejados rs e voa
 - monitor_fonte: arquivos Altium do circuito monitor de corrente, tensão, temperatura e potência, arquivos Proteus de simulação desse circuito, arquivo MikroC de firmware.
 - fontes: pdf's dos circuitos esquemáticos das fontes variável e fixa, o arquivo fonte do projeto em Proteus sumiu entre backup's e mudanças. Quando for localizado subo no repositório.
 
+```shell
 .
 ├── cad_mecanico
 │   ├── COMPONENTES
@@ -196,6 +197,7 @@ E assim foi, montagem, testes, mais uns ajutes ténicos não planejados rs e voa
 │   ├── simula.PNG
 │   └── VID-20240301-WA0018.mp4
 └── README.md
+```
 
 ## Observações
 
